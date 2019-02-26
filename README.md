@@ -1,4 +1,4 @@
-# gettingandcleaningdata
+# README
 
 run_analysis.R does the following:
 
